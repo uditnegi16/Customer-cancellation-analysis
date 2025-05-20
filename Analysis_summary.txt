@@ -1,0 +1,17 @@
+Customer Cancellation Analysis
+------------------------------
+
+Key findings:
+
+- Customers on month-to-month contracts are significantly more likely to churn.
+- Lack of promotional offers correlates strongly with high churn rates.
+- Online security presence decreases the probability of customer churn.
+- A higher tenure typically leads to better customer retention.
+
+Proportions:
+- No offers churn proportion: 0.2711
+- Offer D: Highest retention among all offers.
+
+Visualizations:
+- Grouped column chart showed tenure impact on churn/stay.
+- Scatter plot displayed relationship between average long-distance charges and monthly revenue.
